@@ -27,7 +27,7 @@
 **📺 Screens in Screens in Screens** 🏆<br>
 **⚡ Spellular Automata** 🏆<br>
 **☁️ Define Define** 🏆<br>
-**🎵 Arrows in Arrows in Arrows** 🏆<br>
+**🎵 Arrows in Arrows in Arrows** ✅<br>
 **🏆 Top 99 Ways To Make Sand** *️⃣<br>
 
 **🌈 NEW Fractal**<br>
@@ -60,7 +60,7 @@
 **💤 Sleeping Tode Trilogy** *️⃣<br>
 **🌳 Burning Tree Trilogy**<br>
 
-## Products and demos
+## Creations
 🌐 **Sandpond** - 3D cellular automata 🏆<br>
 🟦 **Cellpond** - 2D cellular automata 🏆<br>
 🌀 **Timepond** - time-travel engine 🏆<br>
@@ -79,7 +79,7 @@
 💧 **Lilypad** - text editor<br>
 💬 **Wara** - ancient language toy<br>
 🪣 **Fractal bucket** - fractal painting tool 💤<br>
-👁️ **Seet** - revealing the line *️⃣<br>
+👁️ **Seet** - revealing the line 💤<br>
 📷 **Photo** - before and after coding<br>
 🔒 **Abc** - alphabet metaprogramming<br>
 
@@ -98,9 +98,10 @@
 🐉 **Dragon** - ColourTode target 🏆<br>
 🔌 **Nogan** - Arroost target 🏆<br>
 
-🐸 **Jumpyscript** - scripting language *️⃣<br>
-⚡ **Hypertadi** - document language *️⃣<br>
-🖌️ **Coolspawn** - styling language<br>
+🐸 **Jumpyscript** - scripting language ❌<br>
+⚡ **Hypertadi** - document language ❌<br>
+🖌️ **Coolspawn** - styling language ❌<br>
+🌳 **Treetish** - slippy LANGUAGE *️⃣<br>
 
 ## Movements
 🪦 **Tadi web** - slippy mindset *️⃣<br>
@@ -130,9 +131,9 @@
 🌱 **Lilypad** - discord server 🔄<br>
 
 ## Publications
-👄 **NATURAL CODE: Dialogues** *️⃣<br>
-👁️ **SEET: Can you see the line** *️⃣<br>
-🎵 **ARROOST: Unblocking creativity** *️⃣<br>
+👄 **NATURAL CODE: Dialogues** ✅<br>
+👁️ **SEET: Can you see the line** 💤<br>
+🎵 **ARROOST: Unblocking creativity with friends** ✅<br>
 
 ## Exhibitions
 🍃 **Torn Leaf Zero** *️⃣<br>
@@ -143,12 +144,12 @@
 🚀 **CELLPOND: Spatial programming pipedream** - LDN Creative Coding 🏆<br>
 🚀 **CELLPOND: Spatial programming without escape** - SPLASH 🏆<br>
 ❗ **DREAMBERD: Perfect programming language** - Future of Coding 🏆<br>
-🎵 **ARROOST: Normalise sharing scrappy fiddles** - Future of Coding 🏆<br>
-
-🎵 **ARROOST: Unblocking creation** *️⃣<br>
-🔎 **TADI WEB: Miniature lab** *️⃣<br>
-📺 **SCREENPOND: Swallowing myself** - QueerJS *️⃣<br>
-👄 **NATURAL CODE: Dialogues** *️⃣<br>
+🎵 **ARROOST: Normalise sharing scrappy fiddles** - Future of Coding ✅<br>
+📺 **SCREENPOND: Swallowing myself** - QueerJS ✅<br>
+🎪 **TODEPOND: What it means to be open** ✅<br>
+🎵 **ARROOST: Unblocking creation with friends** *️⃣<br>
+🔎 **TADI WEB: Death of the tadi web** *️⃣<br>
+👄 **NATURAL CODE: Dialogues on dialogues** *️⃣<br>
 
 ![image](https://github.com/TodePond/ThingsIWantToMake/assets/15892272/27f32d72-5dd1-4b56-bc14-7569330e4606)
 
