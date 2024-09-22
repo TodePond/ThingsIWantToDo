@@ -125,7 +125,7 @@
 📢 **Todepond Pondcast** - weekly update 🔄<br>
 💬 **Wikiblogarden** - daily blog 🔄<br>
 🍃 **Torn Leaf** - gallery *️⃣<br>
-🧾 **Untitled publication** - publication<br>
+🧾 **Untitled publication** - publication ❌<br>
 
 ## Communities
 🌱 **Lilypad** - discord server 🔄<br>
@@ -138,6 +138,11 @@
 ## Exhibitions
 🍃 **Torn Leaf Zero** *️⃣<br>
 ❄️ **Torn Leaf Winter**<br>
+
+## Explorations
+- Cellpond ✅
+- Arroost *️⃣
+- Tadi web *️⃣
 
 ## Talks
 🚀 **CELLPOND: Spatial programming pipedream** - Future of Coding 🏆<br>
